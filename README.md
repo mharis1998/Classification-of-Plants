@@ -1,2 +1,3 @@
-# Image_Classification
-Image Classification repo
+# Plant Classification
+Plant Village Classification Repository
+
